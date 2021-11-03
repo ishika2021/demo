@@ -1,5 +1,7 @@
 h2{
-    border:1px solid red;
-    background-color: yellow;
-    color: blue;
+    border:1px solid rgb(252, 123, 123);
+    background-color: rgb(88, 187, 233);
+    color: rgb(241, 231, 135);
+    display: inline-block;
+    
 }
