@@ -7,4 +7,5 @@ p{
     display: inline-block;
     background-color: chartreuse;
     width:50%;
+    border:1px solid black;
 }
