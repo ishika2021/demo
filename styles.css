@@ -5,3 +5,7 @@ h2{
     display: inline-block;
     
 }
+p{
+    background-color: rgb(236, 145, 195);
+    width: 50%;
+}
